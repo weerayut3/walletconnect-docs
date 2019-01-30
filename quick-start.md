@@ -331,3 +331,4 @@ const signedMessage = await web3.eth.sign(msg)
  */
 const signedTypedData = await web3.eth.signTypedData(msg)
 ```
+

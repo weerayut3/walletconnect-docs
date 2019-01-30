@@ -106,7 +106,7 @@
 
 ### Get All Call Requests available
 
-````bash
+```bash
   GET https://bridge.walletconnect.org/session/<sessionId>/calls
 
   Response:
@@ -133,4 +133,5 @@
 
   Response:
   Status: 200
-````
+```
+
